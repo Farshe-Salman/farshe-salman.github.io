@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://salman-farshe.github.io",
+  "homepage": "https://farshe-salman.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
