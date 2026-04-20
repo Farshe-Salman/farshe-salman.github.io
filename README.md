@@ -1,7 +1,7 @@
-# 🌐 Salman Farshe - Developer Portfolio
+# 🌐 Salman Farshe - Portfolio
 
 Welcome to my personal portfolio website!  
-This portfolio showcases my projects, skills, experience, and achievements as a software developer.
+This portfolio showcases my education, skills, projects, experience, and achievements as a software developer.
 
 🔗 **Live Website:**  
 https://farshe-salman.github.io
@@ -15,7 +15,6 @@ https://farshe-salman.github.io
 - Smooth scroll and transitions 🎬  
 - Clean and professional layout  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -28,7 +27,6 @@ https://farshe-salman.github.io
 - Git & GitHub
 - VS Code
 
----
 
 ## 📂 Sections Included
 
@@ -43,20 +41,6 @@ https://farshe-salman.github.io
 - Publications
 - Contact
 
----
-
-## 📌 Featured Projects
-
-### 🔹 Medispring
-Hospital Appointment System with scheduling, automation, and JWT authentication.
-
-### 🔹 Patient Health Nexus
-Complete healthcare ecosystem with appointments, pharmacy, and payments.
-
-### 🔹 DualScape
-2D OpenGL project showcasing city and village environments.
-
----
 
 ## ⚙️ Installation & Setup
 
@@ -78,16 +62,14 @@ Run locally:
 npm run dev
 📦 Deployment
 
-This project is deployed using GitHub Pages.
 
 npm run deploy
+
+```
 📫 Contact
 📧 Email: salmanfarshe3071@gmail.com
 📞 Phone: +8801319946481
 🔗 GitHub: https://github.com/Farshe-Salman
-⭐ Support
-
-If you like this project, feel free to give it a ⭐ on GitHub!
 
 🧠 Author
 
