@@ -1,16 +1,95 @@
-# React + Vite
+# 🌐 Salman Farshe - Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website!  
+This portfolio showcases my projects, skills, experience, and achievements as a software developer.
 
-Currently, two official plugins are available:
+🔗 **Live Website:**  
+https://farshe-salman.github.io
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+## 🚀 Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Modern UI with animations ✨  
+- Fully responsive design 📱  
+- Interactive project showcase 💼  
+- Smooth scroll and transitions 🎬  
+- Clean and professional layout  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+### Frontend
+- React (Vite)
+- Tailwind CSS
+- Framer Motion
+
+### Tools
+- Git & GitHub
+- VS Code
+
+---
+
+## 📂 Sections Included
+
+- Hero Section
+- About Me
+- Education
+- Experience
+- Skills
+- Projects
+- Certifications
+- Achievements
+- Publications
+- Contact
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Medispring
+Hospital Appointment System with scheduling, automation, and JWT authentication.
+
+### 🔹 Patient Health Nexus
+Complete healthcare ecosystem with appointments, pharmacy, and payments.
+
+### 🔹 DualScape
+2D OpenGL project showcasing city and village environments.
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Farshe-Salman/farshe-salman.github.io.git
+
+Go to project folder:
+
+cd farshe-salman.github.io
+
+Install dependencies:
+
+npm install
+
+Run locally:
+
+npm run dev
+📦 Deployment
+
+This project is deployed using GitHub Pages.
+
+npm run deploy
+📫 Contact
+📧 Email: salmanfarshe3071@gmail.com
+📞 Phone: +8801319946481
+🔗 GitHub: https://github.com/Farshe-Salman
+⭐ Support
+
+If you like this project, feel free to give it a ⭐ on GitHub!
+
+🧠 Author
+
+Md. Salman Farshe
+Aspiring Full Stack Developer
