@@ -6,6 +6,12 @@ const projects = [
     link: "https://github.com/Farshe-Salman/Medispring-Hospital-Appointment-System"
   },
   {
+    title: "DriveEase",
+    desc: "DriveEase is an enterprise-grade Vehicle Rental Management System built with modern web technologies using Spring Boot and React.",
+    tech: "Spring Boot, React",
+    link: "https://github.com/Farshe-Salman/DriveEase-Vehicle_Rental_Management_System"
+  },
+  {
     title: "Patient Health Nexus",
     desc: "Complete healthcare system with appointments, pharmacy, diagnostics, payments and admin dashboard.",
     tech: "C#, MySQL",
